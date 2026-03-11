@@ -1,0 +1,13 @@
+{
+  "startDate": "2026-01-19",
+  "endDate": "2026-08-31",
+  "modules": [
+    { "code": "MIN15221", "name": "TER", "tdGroup": 1 },
+    { "code": "MIN17201", "name": "Programmation, GL et Preuve", "tdGroup": 3 },
+    { "code": "MSANGS2I", "name": "Anglais", "tdGroup": 4 },
+    { "code": "MIN17218", "name": "Calcul Sécurisé", "tdGroup": 2 },
+    { "code": "MIN17215", "name": "Protocoles IP", "tdGroup": 2 },
+    { "code": "MIN17214", "name": "Conception de BD", "tdGroup": 2 },
+    { "code": "MIN17216", "name": "Réseaux étendus", "tdGroup": 2 }
+  ]
+}
